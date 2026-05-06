@@ -1,2 +1,2 @@
 # pateljii.py
-TOKEN = "7842960283:AAFypfab8M2HH-yYByuZURbeOxjHiHwkd3k"
+TOKEN = 7888277165:AAHIFUpQjb7zduoaV0uYHF0tCvJ2A6ljfEw
